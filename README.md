@@ -1,4 +1,4 @@
-# 🧭 Botara 3.0 - Profitable Futures Trading Bot [Project ID: P-708]
+# 🧭 Botara 3.0 - Futures Trading System [Project ID: P-708]
 
 Advanced algorithmic trading system for crypto, forex, and stock futures markets. Combines multi-indicator strategy with Optuna-optimized parameters and robust risk management for consistent profitability.
 
