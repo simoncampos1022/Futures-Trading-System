@@ -102,7 +102,6 @@ FEE_PERCENT=0.0006
 ## 🖼 Screenshots
 
 ![Logo](logo.png)
-![Backtesting Guide](html_guide.gif)
 
 ## 📬 Contact
 
