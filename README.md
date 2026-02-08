@@ -53,7 +53,7 @@ Currently in successful live testing for 2+ months with positive results.
 
 ```bash
 # Clone the repository
-git clone https://github.com/simoncampos1022/botara_profitable_futures_trading_strategy_crypto_forex_stock.git
+git clone https://github.com/simoncampos1022/Futures-Trading-System.git
 cd botara_strategy
 
 # Install dependencies
@@ -99,8 +99,6 @@ price                # Current price
 exit                 # Shutdown
 ```
 
-**Auto-runs every hour** at :00:05 UTC for signal detection.
-
 ## Screenshots
 
 ![Logo](logo.png)
@@ -108,6 +106,5 @@ exit                 # Shutdown
 ## Contact
 
 **Simon Campos**  
-Senior Software Engineer & Trading Expert  
 [simon.campos1022@gmail.com](mailto:simon.campos1022@gmail.com)  
 Telegram: [@simoncampos1022](https://t.me/simoncampos1022)
