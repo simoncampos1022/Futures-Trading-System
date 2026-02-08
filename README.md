@@ -12,7 +12,7 @@ Advanced algorithmic trading system for crypto, forex, and stock futures markets
 - [Screenshots](#screenshots)
 - [Contact](#contact)
 
-## About
+## 🧩 About
 
 Botara 3.0 delivers automated futures trading across cryptocurrency, forex, and stock markets using a proven multi-indicator strategy. Built after extensive research and optimized with Optuna's Bayesian optimization across years of historical data from Bitget and Blofin exchanges.
 
@@ -23,7 +23,7 @@ Botara 3.0 delivers automated futures trading across cryptocurrency, forex, and 
 
 Currently in successful live testing for 2+ months with positive results.
 
-## Features
+## ✨ Features
 
 - **Multi-Indicator Strategy** - Fisher Transform, RSI, Volume Oscillator, ATR
 - **Optuna Optimization** - Bayesian-optimized entry/exit parameters
@@ -35,7 +35,7 @@ Currently in successful live testing for 2+ months with positive results.
 - **Interactive CLI** - Manual position control and balance monitoring
 - **Performance Tracking** - CSV logs, webhook alerts, daily PnL reports
 
-## Tech Stack
+## 🧠 Tech Stack
 
 **Languages:** Python 3.8+
 
