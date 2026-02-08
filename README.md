@@ -49,7 +49,7 @@ Currently in successful live testing for 2+ months with positive results.
 
 **Optimization:** Tree-structured Parzen Estimator (TPE), Walk-forward analysis
 
-## Installation
+## ⚙️ Installation
 
 ```bash
 # Clone the repository
@@ -61,7 +61,24 @@ pip install -r requirements.txt
 # or: pip install requests pandas numpy optuna
 ```
 
-## Configuration
+## 🚀 Usage
+
+```bash
+# Start trading bot
+python botara3_bot.py
+```
+
+**Interactive Commands:**
+```
+help                 # Show commands
+force open long      # Manual long position
+force open short     # Manual short position
+balance              # Current balance
+price                # Current price
+exit                 # Shutdown
+```
+
+## 🧾 Configuration
 
 Create `.env` file with your exchange API credentials:
 
@@ -82,29 +99,24 @@ FEE_PERCENT=0.0006
 
 **Optuna-Optimized Levels:** FS, RSI thresholds and ATR multipliers for entry/exit
 
-## Usage
-
-```bash
-# Start trading bot
-python botara3_bot.py
-```
-
-**Interactive Commands:**
-```
-help                 # Show commands
-force open long      # Manual long position
-force open short     # Manual short position
-balance              # Current balance
-price                # Current price
-exit                 # Shutdown
-```
-
-## Screenshots
+## 🖼 Screenshots
 
 ![Logo](logo.png)
+![Backtesting Guide](html_guide.gif)
 
-## Contact
+## 📬 Contact
 
 **Simon Campos**  
 [simon.campos1022@gmail.com](mailto:simon.campos1022@gmail.com)  
 Telegram: [@simoncampos1022](https://t.me/simoncampos1022)
+
+## 🌟 Acknowledgements
+
+1. **Fisher Transform (FS)** - Identifies potential trend reversals and momentum shifts </br>
+https://www.tradingview.com/support/solutions/43000589141/
+2. **RSI (Relative Strength Index)** - Filters entries based on overbought/oversold conditions </br>
+https://www.tradingview.com/support/solutions/43000502338/
+3. **Volume Oscillator** - Ensures trades are taken during periods of volume confirmation </br>
+https://www.tradingview.com/support/solutions/43000591350/
+4. **ATR (Average True Range)** - Dynamically adjusts stop-loss and take-profit levels based on market volatility </br>
+https://www.tradingview.com/support/solutions/43000501823/
